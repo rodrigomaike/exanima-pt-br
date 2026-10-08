@@ -1,19 +1,7 @@
-EXANIMA — TRADUÇÃO PT-BR
+# Exanima — Tradução PT-BR
 
-Tradução não oficial para Português (Brasil)
+Tradução não oficial de Exanima para português brasileiro.
 
-Jogo: Exanima
-Versão do jogo: 0.9.5.2c BETA
-Versão da tradução: 1.0.0
+**Compatível com:** Exanima 0.9.5.2g BETA
 
-────────────────────────
-
-Índice
-
-1. Sobre
-2. Download
-3. Instalação
-4. Estado da tradução
-5. Limitações
-6. Atualizações
-7. Remoção
+Este repositório contém os arquivos do mod. Para instruções de instalação, imagens, changelog e outros detalhes, consulte o [guia na Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3810327117).
